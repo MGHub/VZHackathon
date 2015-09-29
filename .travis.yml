@@ -1,0 +1,4 @@
+Enter file contents herelanguage: csharp 
+solution: HiChartExp.sln 
+script: 
+  - xbuild /p:Configuration=Release HiChartExp.sln 
